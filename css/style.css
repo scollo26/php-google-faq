@@ -17,16 +17,7 @@
 
 ul > li {
     display: inline;
-    margin: 10px;
-
-    
-    
-    
-}
-a{
-    text-decoration: none;
-    color: #5F6367;
-    padding-bottom: 1em;
+    margin: 10px;  
     
 }
 .nav li a:hover {
@@ -36,9 +27,32 @@ a{
 
 .testo{
     color: #5F6367;
+    text-decoration: none;
+    color: #5F6367;
+    padding-bottom: 1em;
 }
 
 a {
     text-decoration: none;
     color: #3367d6;
 }
+.container{
+    margin: 0 auto;
+    width: 80%;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #3c4043;
+    line-height: 26px;
+    padding-bottom: 40px;
+    margin: 0;
+}
+
+ol li{
+    line-height: 26px;
+    padding-left: 16px;
+    padding-top: 12px;
+}
+
