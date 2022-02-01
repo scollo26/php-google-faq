@@ -1,3 +1,19 @@
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.header{
+    color: #FFFFFF;
+    position: sticky;
+    width: 100%;
+    z-index: 10;
+    
+}
+
+
 .logotipo {
     display: flex;
     width: 100%;
@@ -13,6 +29,12 @@
     margin-left: 30px;
     width: 30%;
     height: 50%;
+}
+
+span{
+    margin-left: 20px;
+    font-size: x-large;
+    color: #5F6367;
 }
 
 ul > li {
@@ -39,6 +61,7 @@ a {
 .container{
     margin: 0 auto;
     width: 80%;
+    padding-top: 4em;
 }
 
 p {
