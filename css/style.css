@@ -79,3 +79,14 @@ ol li{
     padding-top: 12px;
 }
 
+.footer{
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #F5F5F5;
+}
+
+.footer-left li{
+    color: #5F6367;
+}

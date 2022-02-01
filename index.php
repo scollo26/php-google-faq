@@ -93,7 +93,28 @@
     }
 ?>
 </div>
+<div class="footer">
+    <div class="footer-left">
+        <ul>
+            <li><a class="testo" href="#">Google</a></li>
+            <li><a class="testo" href="#">Tutto su Google</a></li>
+            <li><a class="testo" href="#">Privacy</a></li>
+            <li><a class="testo" href="#">Termini</a></li>
+        </ul>
+    </div>
+    <div class="footer-right">
+    <label for="lang-select"><i class="fas fa-globe"></i></label>
 
+<select name="lang" id="lang-select">
+    <option value="">Italiano</option>
+    <option value="inglese">inglese</option>
+    <option value="farncese">farncese</option>
+    <option value="tedesco">tedesco</option>
+    <option value="spagnolo">spagnolo</option>
+</select>
+    </div>
+
+</div>
 
 
 
